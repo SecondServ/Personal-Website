@@ -1,7 +1,7 @@
-﻿<?php
+<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'zihao.zhao.2021@marshall.usc.edu';
+$siteOwnersEmail = 'agreezhao@gmail.com';
 
 
 if($_POST) {
